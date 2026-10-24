@@ -124,91 +124,91 @@ flutter test
 Cada captura indica el tipo de usuario con el que se tomó.
 
 ### Splashscreen
-![Splash](screenshots/01-splash.png)
-![Bienvenida](screenshots/01b-bienvenida.png)
+![Splash](vida_en_balance/screenshots/01-splash.png)
+![Bienvenida](vida_en_balance/screenshots/01b-bienvenida.png)
 
 ### Autenticación
 **Login**
 
-![Login](screenshots/02-login.png)
-![Login con validación](screenshots/02b-login-validacion.png)
+![Login](vida_en_balance/screenshots/02-login.png)
+![Login con validación](vida_en_balance/screenshots/02b-login-validacion.png)
 
 **Registro (selección de rol y datos)**
 
-![Registro: rol Cliente](screenshots/03-registro.png)
-![Registro: rol Operador](screenshots/03e-registro-rol-operador.png)
-![Registro: rol Administrador](screenshots/03d-registro-rol-administrador.png)
-![Registro: datos de la cuenta](screenshots/03b-registro-datos.png)
-![Registro: datos (continuación)](screenshots/03c-registro-datos-2.png)
-![Registro Cliente: objetivo](screenshots/03g-registro-objetivo-cliente.png)
-![Registro Operador/Admin: código de vinculación](screenshots/03h-registro-codigo-vinculacion.png)
+![Registro: rol Cliente](vida_en_balance/screenshots/03-registro.png)
+![Registro: rol Operador](vida_en_balance/screenshots/03e-registro-rol-operador.png)
+![Registro: rol Administrador](vida_en_balance/screenshots/03d-registro-rol-administrador.png)
+![Registro: datos de la cuenta](vida_en_balance/screenshots/03b-registro-datos.png)
+![Registro: datos (continuación)](vida_en_balance/screenshots/03c-registro-datos-2.png)
+![Registro Cliente: objetivo](vida_en_balance/screenshots/03g-registro-objetivo-cliente.png)
+![Registro Operador/Admin: código de vinculación](vida_en_balance/screenshots/03h-registro-codigo-vinculacion.png)
 
 ### Dashboards
 **Administrador**
 
-![Dashboard Administrador](screenshots/04-dashboard-admin.png)
-![Dashboard Administrador (2)](screenshots/04b-dashboard-admin-2.png)
-![Dashboard Administrador (login)](screenshots/04c-dashboard-admin-login.png)
+![Dashboard Administrador](vida_en_balance/screenshots/04-dashboard-admin.png)
+![Dashboard Administrador (2)](vida_en_balance/screenshots/04b-dashboard-admin-2.png)
+![Dashboard Administrador (login)](vida_en_balance/screenshots/04c-dashboard-admin-login.png)
 
 **Cliente**
 
-![Dashboard Cliente](screenshots/05-dashboard-cliente.png)
-![Dashboard Cliente (2)](screenshots/05b-dashboard-cliente-2.png)
-![Dashboard Cliente (login)](screenshots/05c-dashboard-cliente-login.png)
-![Dashboard Cliente (cuenta nueva)](screenshots/05d-dashboard-cliente-nuevo.png)
-![Motivación](screenshots/15-motivacion-cliente.png)
+![Dashboard Cliente](vida_en_balance/screenshots/05-dashboard-cliente.png)
+![Dashboard Cliente (2)](vida_en_balance/screenshots/05b-dashboard-cliente-2.png)
+![Dashboard Cliente (login)](vida_en_balance/screenshots/05c-dashboard-cliente-login.png)
+![Dashboard Cliente (cuenta nueva)](vida_en_balance/screenshots/05d-dashboard-cliente-nuevo.png)
+![Motivación](vida_en_balance/screenshots/15-motivacion-cliente.png)
 
 **Operador**
 
-![Dashboard Operador](screenshots/06-dashboard-operador.png)
-![Dashboard Operador (2)](screenshots/06b-dashboard-operador-2.png)
-![Dashboard Operador (login)](screenshots/06c-dashboard-operador-login.png)
+![Dashboard Operador](vida_en_balance/screenshots/06-dashboard-operador.png)
+![Dashboard Operador (2)](vida_en_balance/screenshots/06b-dashboard-operador-2.png)
+![Dashboard Operador (login)](vida_en_balance/screenshots/06c-dashboard-operador-login.png)
 
 ### Listas
 **Lista principal**
 
-![Mis medicamentos (Cliente)](screenshots/07-lista-principal-cliente.png)
-![Alimentación (Cliente)](screenshots/07b-lista-alimentacion-cliente.png)
-![Recordatorios (Cliente)](screenshots/07c-lista-recordatorios-cliente.png)
-![Medicamentos (Operador)](screenshots/07d-lista-medicamentos-operador.png)
-![Medicamentos (Administrador)](screenshots/07e-lista-medicamentos-admin.png)
+![Mis medicamentos (Cliente)](vida_en_balance/screenshots/07-lista-principal-cliente.png)
+![Alimentación (Cliente)](vida_en_balance/screenshots/07b-lista-alimentacion-cliente.png)
+![Recordatorios (Cliente)](vida_en_balance/screenshots/07c-lista-recordatorios-cliente.png)
+![Medicamentos (Operador)](vida_en_balance/screenshots/07d-lista-medicamentos-operador.png)
+![Medicamentos (Administrador)](vida_en_balance/screenshots/07e-lista-medicamentos-admin.png)
 
 **Lista detalle**
 
-![Historial de glucosa](screenshots/08-lista-detalle-cliente.png)
+![Historial de glucosa](vida_en_balance/screenshots/08-lista-detalle-cliente.png)
 
 **Estado vacío**
 
-![Mis medicamentos vacío](screenshots/09-lista-vacia.png)
-![Recordatorios vacío](screenshots/09b-recordatorios-vacio.png)
-![Historial vacío](screenshots/09c-historial-vacio.png)
+![Mis medicamentos vacío](vida_en_balance/screenshots/09-lista-vacia.png)
+![Recordatorios vacío](vida_en_balance/screenshots/09b-recordatorios-vacio.png)
+![Historial vacío](vida_en_balance/screenshots/09c-historial-vacio.png)
 
 ### Formularios
 **Cliente**
 
-![Registrar glucosa](screenshots/10-formulario-glucosa-cliente.png)
-![Agregar medicamento](screenshots/10b-formulario-medicamento-cliente.png)
-![Agregar medicamento (2)](screenshots/10c-formulario-medicamento-cliente-2.png)
-![Medicamento registrado](screenshots/10d-medicamento-registrado-cliente.png)
-![Agregar recordatorio](screenshots/10e-formulario-recordatorio-cliente.png)
-![Perfil](screenshots/10f-perfil-cliente.png)
-![Perfil (2)](screenshots/10g-perfil-cliente-2.png)
+![Registrar glucosa](vida_en_balance/screenshots/10-formulario-glucosa-cliente.png)
+![Agregar medicamento](vida_en_balance/screenshots/10b-formulario-medicamento-cliente.png)
+![Agregar medicamento (2)](vida_en_balance/screenshots/10c-formulario-medicamento-cliente-2.png)
+![Medicamento registrado](vida_en_balance/screenshots/10d-medicamento-registrado-cliente.png)
+![Agregar recordatorio](vida_en_balance/screenshots/10e-formulario-recordatorio-cliente.png)
+![Perfil](vida_en_balance/screenshots/10f-perfil-cliente.png)
+![Perfil (2)](vida_en_balance/screenshots/10g-perfil-cliente-2.png)
 
 **Operador**
 
-![Perfil Operador](screenshots/11-formulario-perfil-operador.png)
+![Perfil Operador](vida_en_balance/screenshots/11-formulario-perfil-operador.png)
 
 **Administrador**
 
-![Perfil Administrador](screenshots/12-formulario-perfil-admin.png)
+![Perfil Administrador](vida_en_balance/screenshots/12-formulario-perfil-admin.png)
 
 **Ajustes**
 
-![Ajustes Cliente](screenshots/16-ajustes-cliente.png)
-![Ajustes Cliente (2)](screenshots/16b-ajustes-cliente-2.png)
-![Ajustes Operador](screenshots/16c-ajustes-operador.png)
-![Ajustes Administrador](screenshots/16d-ajustes-admin.png)
+![Ajustes Cliente](vida_en_balance/screenshots/16-ajustes-cliente.png)
+![Ajustes Cliente (2)](vida_en_balance/screenshots/16b-ajustes-cliente-2.png)
+![Ajustes Operador](vida_en_balance/screenshots/16c-ajustes-operador.png)
+![Ajustes Administrador](vida_en_balance/screenshots/16d-ajustes-admin.png)
 
 ### Evidencia funcional
-![Foto del equipo](screenshots/13-foto-equipo.png)
-![Navegación](screenshots/14-navegacion.png)
+![Foto del equipo](vida_en_balance/screenshots/13-foto-equipo.png)
+![Navegación](vida_en_balance/screenshots/14-navegacion.png)
